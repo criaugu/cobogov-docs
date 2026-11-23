@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcobogov_docs||=[]).push([[9647],{7121(e,s,r){r.r(s),r.d(s,{default:()=>l});r(6540);var c=r(4164),o=r(7559),a=r(5500),u=r(2831),t=r(5455),d=r(4848);function l(e){return(0,d.jsx)(a.e3,{className:(0,c.A)(o.G.wrapper.docsPages),children:(0,d.jsx)(t.A,{children:(0,u.v)(e.route.routes)})})}}}]);
